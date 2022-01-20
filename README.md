@@ -16,9 +16,12 @@ So what do we need to add it to SDK? A few steps:
 
 Add to “package.json”, cannon-es as dependency to your project and run ```npm install```
 
+![This is an image](https://raw.githubusercontent.com/yanis7774/Physics-library-for-Decentraland/main/package_json.png)
+
 
 2. **Add the source file to  “include” section of tsconfig.json**
 
+![This is an image](https://raw.githubusercontent.com/yanis7774/Physics-library-for-Decentraland/main/tsconfig.png)
 
 
 3. **Import it with absolute path.**
